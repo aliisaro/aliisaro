@@ -1,3 +1,3 @@
 ## Hello
 
-### I’m currently learning at Metropolia school to become a full-stack developer.
+### I’m currently studying to become a full-stack developer at Metropolia University of Applied Sciences.
