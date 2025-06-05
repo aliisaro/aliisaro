@@ -10,7 +10,7 @@ I'm a Software Engineering student at Metropolia University of Applied Sciences*
 |--------------|------------------------|
 | Java         | Backend, Android       |
 | JavaScript   | Frontend, Web          |
-| Python       | Scripting, Backend     |
+| Python       | Backend                |
 | HTML & CSS   | Frontend (Web)         |
 | Kotlin       | Android, Backend       |
 | Swift        | iOS/macOS Development  |
