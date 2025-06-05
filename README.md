@@ -1,13 +1,18 @@
-## Hello
+# Hello!
 
-### I’m currently studying software engineering at Metropolia University of Applied Sciences.
+I'm a Software Engineering student at Metropolia University of Applied Sciences*.
 
-### Languages I have learned:
-### -Java
-### -JavaScript
-### -Python
-### -HTML & CSS
-### -Kotlin
-### -Swift
-### -PHP
-### -SQL
+---
+
+## 💻 Programming Languages
+
+| Language     | Area                  |
+|--------------|------------------------|
+| Java         | Backend, Android       |
+| JavaScript   | Frontend, Web          |
+| Python       | Scripting, Backend     |
+| HTML & CSS   | Frontend (Web)         |
+| Kotlin       | Android, Backend       |
+| Swift        | iOS/macOS Development  |
+| PHP          | Web Backend            |
+| SQL          | Databases              |
