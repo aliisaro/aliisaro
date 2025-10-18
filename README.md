@@ -6,12 +6,12 @@ I'm a Software Engineering student at Metropolia University of Applied Sciences 
 
 ## 💻 Programming Languages
 
-| Language     | Area                  |
-|--------------|------------------------|
-| Java         | Backend                |
-| JavaScript   | Frontend               |
-| Python       | Backend                |
-| HTML & CSS   | Frontend               |
-| Kotlin       | Android development    |
-| PHP          | Web Backend            |
-| SQL          | Databases              |
+| Language     |
+|--------------|
+| Java         | 
+| JavaScript   |
+| Python       | 
+| HTML & CSS   |
+| Kotlin       | 
+| PHP          |
+| SQL          |
